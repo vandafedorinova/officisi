@@ -1,0 +1,2 @@
+View
+    .environment(\.colorScheme, .dark)
